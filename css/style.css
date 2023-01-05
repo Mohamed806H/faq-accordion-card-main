@@ -62,6 +62,7 @@ section.faq h1 {
 }
 .Question:hover {
   color: var(--SR-color);
+  cursor: pointer;
 }
 img.arrow-one {
   position: absolute;
@@ -81,12 +82,14 @@ img.arrow-two {
 .change-arrowtwo {
   transform: rotate(180deg);
 }
+
 img.arrow-three {
   position: absolute;
   top: 102px;
   left: 310px;
   width: 15px;
 }
+
 img.arrow-four {
   position: absolute;
   top: 160px;
@@ -111,6 +114,7 @@ img.arrow-five {
 .show-answertwo {
   display: block;
 }
+
 .Answer-three {
   display: none;
 }
@@ -123,4 +127,25 @@ img.arrow-five {
 
 .add-Margin {
   margin-top: 31px;
+}
+.add-Margin-four {
+  margin-top: 48px;
+}
+.change-arrowthree {
+  transform: rotate(180deg);
+}
+.show-answerthree {
+  display: block;
+}
+.change-arrowfour {
+  transform: rotate(180deg);
+}
+.show-answerfour {
+  display: block;
+}
+.change-arrowfive {
+  transform: rotate(180deg);
+}
+.show-answerfive {
+  display: block;
 }

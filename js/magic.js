@@ -16,22 +16,30 @@ function arrowOne() {
   arrowone.classList.toggle("change-arrowone");
   answerone.classList.toggle("show-answerone");
   arrowtwo.classList.toggle("add-Margin");
+  arrowthree.classList.toggle("add-Margin");
+  arrowfour.classList.toggle("add-Margin");
+  arrowfive.classList.toggle("add-Margin");
 }
 
 function arrowTwo() {
   arrowtwo.classList.toggle("change-arrowtwo");
   answertwo.classList.toggle("show-answertwo");
   arrowthree.classList.toggle("add-Margin");
+  arrowfour.classList.toggle("add-Margin");
+  arrowfive.classList.toggle("add-Margin");
 }
 
 function arrowThree() {
   arrowthree.classList.toggle("change-arrowthree");
   answerthree.classList.toggle("show-answerthree");
+  arrowfour.classList.toggle("add-Margin-four");
+  arrowfive.classList.toggle("add-Margin-four");
 }
 
 function arrowFour() {
   arrowfour.classList.toggle("change-arrowfour");
   answerfour.classList.toggle("show-answerfour");
+  arrowfive.classList.toggle("add-Margin");
 }
 
 function arrowFive() {
