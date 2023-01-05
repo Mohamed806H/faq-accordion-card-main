@@ -1,0 +1,127 @@
+section.container{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: row;
+background-color: var(--LGB-color);
+width: 918px;
+height: 509px;
+border-radius: 30px;
+}
+section.images{
+  width: 50%;
+  z-index: 0;
+}
+section.images div.background-one{
+width: 100%;
+    height: 100%;
+    background-image: url(../images/illustration-woman-online-desktop.svg);
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position-y: 5px;
+    background-position-x: -65px;
+    left: 261px;
+    top: 273px;
+}
+section.images div.background-one img{
+    position: relative;
+    top: 150px;
+    left: -92px;
+}
+section.images div.background-two{
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/bg-pattern-desktop.svg);
+    background-repeat: no-repeat;
+    position: absolute;
+    background-position-y: -280px;
+    background-position-x: -575px;
+    top: 195px;
+    left: 260px;
+    z-index: -1;
+}
+section.images div.background-two img {
+  display: none;
+}
+section.faq{
+  width: 50%;
+  position: relative;
+    top: 40px;
+}
+section.faq h1{
+font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+margin-top: -66px;
+}
+.Question{
+  padding-top: 10px;
+      padding-bottom: 15px;
+      font-size:15px ;
+      font-weight: 700;
+}
+.Question:hover{
+  color: var(--SR-color);
+}
+img.arrow-one{
+  position: absolute;
+    margin-top: -25px;
+    left: 310px;
+    width: 15px;
+}
+.change-arrowone{
+    transform: rotate(180deg) translate(0px, 1px);
+}
+img.arrow-two{
+  position: absolute;
+    top: 45px;
+    left: 310px;
+    width: 15px;
+}
+.change-arrowtwo{
+      transform: rotate(180deg);
+
+}
+img.arrow-three{
+  position: absolute;
+    top: 102px;
+    left: 310px;
+    width: 15px;
+}
+img.arrow-four{
+  position: absolute;
+    top: 160px;
+    left: 310px;
+    width: 15px;
+}
+img.arrow-five{
+  position: absolute;
+    top: 218px;
+    left: 310px;
+    width: 15px;
+}
+.Answer-one{
+  display: none;
+}
+.show-answerone{
+  display: block;
+}
+.Answer-two{
+  display: none;
+}
+.show-answertwo{
+  display: block;
+}
+.Answer-three{
+  display: none;
+}
+.Answer-four{
+  display: none;
+}
+.Answer-five{
+  display: none;
+}
+
+.add-Margin{
+  margin-top: 31px;
+}
