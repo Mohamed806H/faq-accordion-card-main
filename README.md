@@ -15,8 +15,8 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ## Links
 
-- Solution URL:()
-- Live Site URL:()
+- Solution URL:(https://www.frontendmentor.io/solutions/faq-accordion-card-xsTQMoUZyD)
+- Live Site URL:(https://mohamed806h.github.io/faq-accordion-card-main/)
 
 ## Built with
 
