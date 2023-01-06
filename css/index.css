@@ -20,7 +20,7 @@ body {
   background: linear-gradient(180deg, #af67e9 0%, #6565e7 100%);
   font-size: 12px;
   min-height: 100vh;
-  overflow: hidden;
+  overflow-x: hidden;
   width: 1440px;
   height: 800px;
   display: flex;
