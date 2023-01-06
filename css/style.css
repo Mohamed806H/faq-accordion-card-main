@@ -178,9 +178,14 @@ img.arrow-five {
     background-image: url(../images/bg-pattern-mobile.svg);
     background-repeat: no-repeat;
     position: absolute;
-    top: 195px;
-    left: 260px;
+    top: 3px;
+    left: 50px;
     z-index: -1;
+  }
+  section.images div.background-three img {
+    width: 72%;
+    position: absolute;
+    top: -115px;
   }
   section.faq {
     display: flex;
