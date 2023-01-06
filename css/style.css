@@ -40,6 +40,9 @@ section.images div.background-two {
   left: 260px;
   z-index: -1;
 }
+section.images div.background-three {
+  display: none;
+}
 
 section.images div.background-two img {
   display: none;
@@ -181,6 +184,7 @@ img.arrow-five {
     top: 3px;
     left: 50px;
     z-index: -1;
+    display: block;
   }
   section.images div.background-three img {
     width: 72%;
