@@ -40,3 +40,12 @@ hr {
   color: var(--DGB-color);
   width: 420px;
 }
+
+@media screen and (max-width: 375px) {
+  .text {
+    width: 255px;
+  }
+  hr {
+    width: 260px;
+  }
+}
