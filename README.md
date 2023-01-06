@@ -11,6 +11,8 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ## Screenshot
 
+![desktop-preview](https://user-images.githubusercontent.com/91362640/211087596-313b71b5-9469-4a08-8897-5a649e9bc5cb.jpg)
+
 ## Links
 
 - Solution URL:()
